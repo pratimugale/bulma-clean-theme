@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Pratim Ugale
+subtitle: This is my personal website containing blogs, projects and hobbies.
 layout: page
 callouts: home_callouts
 show_sidebar: true
